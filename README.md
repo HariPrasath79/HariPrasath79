@@ -29,12 +29,12 @@ Here are some ideas to get you started:
   <ul>
     <li><p>C/C++</p></li>
     <li><p>HTML</p></li>
-    <li><p>CSS</p></li>
     <li><p>Tailwind CSS</p></li>
     <li><p>JavaScript</p></li>
     <li><p>Node.js</p></li>
     <li><p>React.js</p></li>
-    <li><p>Android Studio</p></li>
+    <li><p>Flutter</p></li>
+    <li><p>Dart</p></li>
   </ul>
 </ul>
 
